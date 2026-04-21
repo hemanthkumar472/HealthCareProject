@@ -15,3 +15,5 @@ test('LoginPage',async({page})=>{
     console.log('Succefully navigated into Hospital Management System and completed login');
     
 })
+
+///////////////////////////////////////////////////////////////////////////////////////////////
